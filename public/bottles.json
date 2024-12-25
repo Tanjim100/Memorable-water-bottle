@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "COLD CUP XL",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "CLASSIC TUMBLER",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "SERIES A SPORT CANTEEN",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "COMMUTER CUP",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CRUISER",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bottle 6",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bottle 7",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bottle 8",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bottle 9",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bottle 10",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bottle 11",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Bottle 12",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Bottle 13",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Bottle 14",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Bottle 15",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Bottle 16",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Bottle 17",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Bottle 18",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Bottle 19",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Bottle 20",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Bottle 21",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Bottle 22",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Bottle 23",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Bottle 24",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Bottle 25",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Bottle 26",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bottle 27",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_27.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Bottle 28",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_28.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Bottle 29",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_29.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Bottle 30",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_30.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Bottle 31",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_31.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Bottle 32",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_32.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Bottle 33",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_33.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Bottle 34",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_34.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Bottle 35",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_35.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Bottle 36",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_36.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Bottle 37",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_37.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Bottle 38",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_38.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Bottle 39",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_39.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Bottle 40",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_40.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Bottle 41",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_41.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Bottle 42",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_42.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Bottle 43",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_43.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Bottle 44",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_44.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Bottle 45",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_45.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Bottle 46",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_46.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Bottle 47",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_47.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Bottle 48",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_48.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Bottle 49",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_49.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Bottle 50",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_50.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Bottle 51",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_51.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Bottle 52",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_52.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Bottle 53",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_53.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Bottle 54",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_54.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Bottle 55",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_55.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Bottle 56",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_56.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Bottle 57",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_57.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Bottle 58",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_58.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Bottle 59",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_59.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Bottle 60",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_60.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Bottle 61",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_61.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Bottle 62",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_62.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Bottle 63",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_63.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Bottle 64",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_64.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Bottle 65",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_65.jpg"
+    },
+    {
+        "id": 66,
+        "name": "Bottle 66",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_66.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Bottle 67",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_67.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Bottle 68",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_68.jpg"
+    },
+    {
+        "id": 69,
+        "name": "Bottle 69",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_69.jpg"
+    },
+    {
+        "id": 70,
+        "name": "Bottle 70",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_70.jpg"
+    },
+    {
+        "id": 71,
+        "name": "Bottle 71",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_71.jpg"
+    },
+    {
+        "id": 72,
+        "name": "Bottle 72",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_72.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Bottle 73",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_73.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Bottle 74",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_74.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Bottle 75",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_75.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Bottle 76",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_76.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Bottle 77",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_77.jpg"
+    },
+    {
+        "id": 78,
+        "name": "Bottle 78",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_78.jpg"
+    },
+    {
+        "id": 79,
+        "name": "Bottle 79",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_79.jpg"
+    },
+    {
+        "id": 80,
+        "name": "Bottle 80",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_80.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Bottle 81",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_81.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Bottle 82",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_82.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Bottle 83",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_83.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Bottle 84",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_84.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Bottle 85",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_85.jpg"
+    },
+    {
+        "id": 86,
+        "name": "Bottle 86",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_86.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Bottle 87",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_87.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Bottle 88",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_88.jpg"
+    },
+    {
+        "id": 89,
+        "name": "Bottle 89",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_89.jpg"
+    },
+    {
+        "id": 90,
+        "name": "Bottle 90",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_90.jpg"
+    },
+    {
+        "id": 91,
+        "name": "Bottle 91",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.6,
+        "image_url": "https://example.com/images/bottle_91.jpg"
+    },
+    {
+        "id": 92,
+        "name": "Bottle 92",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.7,
+        "image_url": "https://example.com/images/bottle_92.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Bottle 93",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 1.8,
+        "image_url": "https://example.com/images/bottle_93.jpg"
+    },
+    {
+        "id": 94,
+        "name": "Bottle 94",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.9,
+        "image_url": "https://example.com/images/bottle_94.jpg"
+    },
+    {
+        "id": 95,
+        "name": "Bottle 95",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.0,
+        "image_url": "https://example.com/images/bottle_95.jpg"
+    },
+    {
+        "id": 96,
+        "name": "Bottle 96",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.1,
+        "image_url": "https://example.com/images/bottle_96.jpg"
+    },
+    {
+        "id": 97,
+        "name": "Bottle 97",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.2,
+        "image_url": "https://example.com/images/bottle_97.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Bottle 98",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 2.3,
+        "image_url": "https://example.com/images/bottle_98.jpg"
+    },
+    {
+        "id": 99,
+        "name": "Bottle 99",
+        "quantity": 100,
+        "category": "Category B",
+        "price": 2.4,
+        "image_url": "https://example.com/images/bottle_99.jpg"
+    },
+    {
+        "id": 100,
+        "name": "Bottle 100",
+        "quantity": 100,
+        "category": "Category A",
+        "price": 1.5,
+        "image_url": "https://example.com/images/bottle_100.jpg"
+    }
+]
