@@ -24,3 +24,9 @@ const addCartToLS = id => {
 export { addCartToLS, getStoredCart }
 
 
+
+// to add into local storage the value or array is stored as string, so stringify is needed to store, so 'JSON.stringify' is used
+
+// to get values from the local storage we need to parse from the local storage using 'JSON.parse'
+
+
