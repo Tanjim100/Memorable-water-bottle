@@ -20,8 +20,16 @@ const addCartToLS = id => {
     saveCartToLS(cart);
 }
 
+const removeFromLS = id => {
+    const cart = getStoredCart();
 
-export { addCartToLS, getStoredCart }
+    // all the id will be filtered and stored in remaining cart accept the id i want to deleted or removed.
+    const remainingCart = cart.filter(idx => idx !== id);
+    saveCartToLS(remainingCart);
+}
+
+
+export { addCartToLS, getStoredCart, removeFromLS }
 
 
 
